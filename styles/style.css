@@ -114,3 +114,11 @@ section article{
 ul{
     list-style: none;
 }
+.checked{
+    text-decoration: line-through;
+}
+hr{
+    width: 100%;
+    border-width: 5px;
+    border: 7px dashed darkgrey;
+}
