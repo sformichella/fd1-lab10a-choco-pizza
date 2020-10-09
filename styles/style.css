@@ -104,3 +104,13 @@ footer img {
 p.copyright-info {
     text-align: center;
 }
+section article{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Chilanka', cursive;
+    font-size: 1.054em;
+}
+ul{
+    list-style: none;
+}
